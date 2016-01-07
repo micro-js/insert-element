@@ -2,7 +2,7 @@
   "name": "@f/insert-element",
   "description": "Insert an element at the specified position within a container",
   "repository": "git://github.com/micro-js/insert-element.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
